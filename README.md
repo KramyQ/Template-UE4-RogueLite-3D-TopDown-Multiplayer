@@ -3,6 +3,8 @@ c++ UE4 RogueLite 3d Top Down Multiplayer (Listen Server) Template
 UE4_4.27
 
 This code is multiplayer ready and provides a solid base for any games following the type stipulated in the template name.
+WQSD movement and mouse aiming.
+
 Kramy.
 
 To do :
