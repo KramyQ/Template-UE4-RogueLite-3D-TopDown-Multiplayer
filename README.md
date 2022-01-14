@@ -6,6 +6,6 @@ This code is multiplayer ready and provides a solid base for any games following
 Kramy.
 
 To do :
-  Implement your own UIs plugging the backend tool functions of each class functions.
-  Implement your own session connector ( Steam sockets or local port )
+  - Implement your own UIs plugging the backend tool functions of each class functions.
+  - Implement your own session connector ( Steam sockets or local port )
   
